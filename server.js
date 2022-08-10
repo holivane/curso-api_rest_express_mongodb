@@ -4,7 +4,8 @@ const port = 5000;
 const rotas = {
     '/': 'Curso de Node',
     '/livros': 'Entrei em Livros',
-    '/autores': 'Entrei em Autores'
+    '/autores': 'Entrei em Autores',
+    '/sobre': 'Info sobre projeto'
 }
 
 
