@@ -4,7 +4,7 @@ const editoraSchema = new mongoose.Schema(
   {
     id: { type: String },
     nome: { type: String, required: true },
-    nacionalidade: { type: String },
+    local: { type: String },
   },
   {
     versionKey: false,
